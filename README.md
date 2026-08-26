@@ -5,7 +5,7 @@ synthetic patient data → OMOP Common Data Model → cohort analytics →
 4-page BI dashboard, including a documented data-quality root-cause
 investigation.
 
-**Dashboard:** [https://datastudio.google.com/reporting/f2ec889e-40e3-4ea4-9621-4c3bf26999ac](#)
+**Dashboard:** [Live Looker Studio dashboard](https://datastudio.google.com/reporting/f2ec889e-40e3-4ea4-9621-4c3bf26999ac)
 
 ![Cohort Overview](docs/screenshots/page1-cohort-overview.png)
 ![Data Quality Scorecard](docs/screenshots/page2-data-quality.png)
