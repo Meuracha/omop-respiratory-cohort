@@ -1,0 +1,4 @@
+table_name,total_records,mapped_records,mapped_pct
+condition_occurrence,19826,19458,98.14
+drug_exposure,22879,22874,99.98
+visit_occurrence,32088,31992,99.70

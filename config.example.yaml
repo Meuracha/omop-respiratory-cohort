@@ -1,0 +1,13 @@
+gateways:
+  local:
+    connection:
+      type: postgres
+      host: localhost
+      port: 5432
+      user: <your_username>
+      password: '<your_password_or_empty>'
+      database: omop_cdm
+default_gateway: local
+model_defaults:
+  dialect: postgres
+  start: 2010-01-01

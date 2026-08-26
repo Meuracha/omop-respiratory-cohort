@@ -1,0 +1,10 @@
+sqlmeshenv/
+.sqlmesh/
+vocabulary/*.csv
+*.jar
+data_validation/
+data_full/
+.DS_Store
+config.yaml
+.cache/
+logs/
